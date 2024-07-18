@@ -1,4 +1,4 @@
-# Text to SQL using RAG
+# Text to SQL using RAG 🔗
 
 ## 프로젝트 개요  
 <p>
