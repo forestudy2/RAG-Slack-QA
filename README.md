@@ -1,1 +1,1 @@
-# 🔗 RAG-Slack-QA
+# 🌿 RAG-Slack-QA
